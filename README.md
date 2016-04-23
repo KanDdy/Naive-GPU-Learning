@@ -1,7 +1,9 @@
 # Naive-GPU-Learning
 Several naive implementations of machine learning algorithms with GPU(CUDA)
 
+
 The first algorithm is Logistic Regression running on GPU with less than 200 lines code. 
+
 
 Hardware: i7-6700K, Tesla M2050(1.03Tflops) 
 
